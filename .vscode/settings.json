@@ -1,0 +1,4 @@
+{
+    "chatgpt.gpt3.apiKey": "<api-key>",
+    "chatgpt.gpt3.apiBaseUrl": "https://api.openai.com/v1", // Optional
+}
